@@ -1,4 +1,4 @@
 # Projekt na zaliczenie 
-> [!Wykonali]
+> [!NOTE]
 > Adrian Stopa,
 > Jakub Szewczyk,
